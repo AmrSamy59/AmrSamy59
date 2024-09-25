@@ -1,5 +1,8 @@
-## Hi there 👋
+## Amr Samy - A Computer Engineering Student
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-ibrahem&show_icons=true&locale=en&layout=compact" alt="anas-ibrahem" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anas-ibrahem&show_icons=true&locale=en" alt="anas-ibrahem" /></p>
 <!--
 **AmrSamy59/AmrSamy59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
